@@ -1,0 +1,10 @@
+go-sqlite3mc
+Copyright 2026 sjzar
+
+The C amalgamation included in this repository contains:
+
+* SQLite, released into the public domain by the SQLite authors. See the
+  notice at the beginning of sqlite3.h and sqlite3mc_amalgamation.h.
+* SQLite3 Multiple Ciphers, Copyright Ulrich Telle, licensed under the MIT
+  License. The exact copyright years are retained in the bundled source
+  notices; see sqlite3mc_amalgamation.c and sqlite3mc_amalgamation.h.
